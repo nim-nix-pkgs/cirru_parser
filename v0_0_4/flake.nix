@@ -9,7 +9,7 @@
   
   inputs.src-cirru_parser-v0_0_4.flake = false;
   inputs.src-cirru_parser-v0_0_4.owner = "Cirru";
-  inputs.src-cirru_parser-v0_0_4.ref   = "refs/tags/v0.0.4";
+  inputs.src-cirru_parser-v0_0_4.ref   = "v0_0_4";
   inputs.src-cirru_parser-v0_0_4.repo  = "parser.nim";
   inputs.src-cirru_parser-v0_0_4.type  = "github";
   
