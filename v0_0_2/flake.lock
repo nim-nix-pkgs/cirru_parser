@@ -36,10 +36,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-cirru_parser-v0_0_2": "src-cirru_parser-v0_0_2"
+        "src-cirruParser-v0_0_2": "src-cirruParser-v0_0_2"
       }
     },
-    "src-cirru_parser-v0_0_2": {
+    "src-cirruParser-v0_0_2": {
       "flake": false,
       "locked": {
         "lastModified": 1566715334,
