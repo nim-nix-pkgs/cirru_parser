@@ -11,6 +11,7 @@
   inputs.src-cirru_parser-v0_2_4.ref   = "refs/tags/v0.2.4";
   inputs.src-cirru_parser-v0_2_4.owner = "Cirru";
   inputs.src-cirru_parser-v0_2_4.repo  = "parser.nim";
+  inputs.src-cirru_parser-v0_2_4.dir   = "";
   inputs.src-cirru_parser-v0_2_4.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
