@@ -11,7 +11,6 @@
   inputs.src-cirru_parser-master.ref   = "refs/heads/master";
   inputs.src-cirru_parser-master.owner = "Cirru";
   inputs.src-cirru_parser-master.repo  = "parser.nim";
-  inputs.src-cirru_parser-master.dir   = "";
   inputs.src-cirru_parser-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
