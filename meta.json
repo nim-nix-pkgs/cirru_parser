@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/Cirru/parser.nim",
   "refs": [
-    "fatal: unable to access 'https://github.com/Cirru/parser.nim/': Error in the HTTP2 framing layer",
+    "fatal: unable to access 'https://github.com/Cirru/parser.nim/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
